@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/how-to-create",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a how-to-create",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/how-to-create.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/how-to-create-customer-loyalty-program/"
+    },
+    "homepage": "https://bitcu.co/en/how-to-create-customer-loyalty-program/"
+}
